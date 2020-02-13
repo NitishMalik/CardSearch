@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/cardSeach/static/css/main.9143091a.chunk.css",
-    "main.js": "/cardSeach/static/js/main.7d30216f.chunk.js",
-    "main.js.map": "/cardSeach/static/js/main.7d30216f.chunk.js.map",
-    "runtime-main.js": "/cardSeach/static/js/runtime-main.47f86902.js",
-    "runtime-main.js.map": "/cardSeach/static/js/runtime-main.47f86902.js.map",
-    "static/js/2.509acd44.chunk.js": "/cardSeach/static/js/2.509acd44.chunk.js",
-    "static/js/2.509acd44.chunk.js.map": "/cardSeach/static/js/2.509acd44.chunk.js.map",
-    "index.html": "/cardSeach/index.html",
-    "precache-manifest.3748acdca2e066014b584e3a63b98acb.js": "/cardSeach/precache-manifest.3748acdca2e066014b584e3a63b98acb.js",
-    "service-worker.js": "/cardSeach/service-worker.js",
-    "static/css/main.9143091a.chunk.css.map": "/cardSeach/static/css/main.9143091a.chunk.css.map",
-    "static/js/2.509acd44.chunk.js.LICENSE.txt": "/cardSeach/static/js/2.509acd44.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/cardSeach/static/media/logo.5d5d9eef.svg"
+    "main.css": "/CardSearch/static/css/main.9143091a.chunk.css",
+    "main.js": "/CardSearch/static/js/main.0d3e80f7.chunk.js",
+    "main.js.map": "/CardSearch/static/js/main.0d3e80f7.chunk.js.map",
+    "runtime-main.js": "/CardSearch/static/js/runtime-main.e9bfef6d.js",
+    "runtime-main.js.map": "/CardSearch/static/js/runtime-main.e9bfef6d.js.map",
+    "static/js/2.509acd44.chunk.js": "/CardSearch/static/js/2.509acd44.chunk.js",
+    "static/js/2.509acd44.chunk.js.map": "/CardSearch/static/js/2.509acd44.chunk.js.map",
+    "index.html": "/CardSearch/index.html",
+    "precache-manifest.b3967a6296b2d6541379877ecb126885.js": "/CardSearch/precache-manifest.b3967a6296b2d6541379877ecb126885.js",
+    "service-worker.js": "/CardSearch/service-worker.js",
+    "static/css/main.9143091a.chunk.css.map": "/CardSearch/static/css/main.9143091a.chunk.css.map",
+    "static/js/2.509acd44.chunk.js.LICENSE.txt": "/CardSearch/static/js/2.509acd44.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/CardSearch/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.47f86902.js",
+    "static/js/runtime-main.e9bfef6d.js",
     "static/js/2.509acd44.chunk.js",
     "static/css/main.9143091a.chunk.css",
-    "static/js/main.7d30216f.chunk.js"
+    "static/js/main.0d3e80f7.chunk.js"
   ]
 }
